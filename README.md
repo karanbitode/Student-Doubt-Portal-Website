@@ -11,6 +11,6 @@ A website whose purpose was to give a platform, namely â€œMANIT Student Portalâ€
 ![](Screenshots/ss8.jpg)
 ![](Screenshots/ss9.jpg)
 ![](Screenshots/ss10.jpg)
-![](Screenshots/ss11jpg)
+![](Screenshots/ss11.jpg)
 ![](Screenshots/ss12.jpg)
 ![](Screenshots/ss13.jpg)
